@@ -1,0 +1,37 @@
+---
+title:  "Team 670 Places 3rd At Calgames, Takes Home Systems Design Award"
+image: "img/cg1.jpg"
+date:   2018-10-10 12:12:12
+---
+
+For Team 670, the 2018 season concluded with a 3rd place finish at Calgames in Woodside, CA on October 5th and 6th.
+The team also won the Systems Design Award, a solid ending for one of Homestead's best FRC seasons yet.
+
+
+Team 670's robot, 1 Chainz, climbing the scale:
+![Pulling off a nice climb in the endgame](/img/IMG_20181006_104525.jpg)
+
+
+After placing 3rd in qualifiers, 670 lead an alliance with Team 115-MVRT and Team 751-barn2robotics in quarterfinals. 
+
+
+Checking the robot before a match:
+![Ben and Nick working in the pit before a match](/img/pit1.jpg)
+
+
+
+![The Systems Design Award!](/img/Systems Design Award.JPG)
+### Calgames 2018 Systems Design Award Presentation Statement
+
+" Presented by Camp Peavy, Neato Robotics, Robotics Technician and HomeBrew Robotics.
+
+A hook on a magnet with a flexible adhere
+A low center of gravity with elephant ears
+Home, Home on the Range
+Where the gears and the 2-stage continuous lift elevators play,
+Where quickly is heard, 
+A suck and chuck type of SCORE!
+And the boxes are picked and placed on scales, all day.
+
+Congratulations to the 2018 Systems Design Award winner… 
+Team 670, Homestead Robotics With their robot 1 Chainz from Homestead High School!"
