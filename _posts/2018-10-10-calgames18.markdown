@@ -1,5 +1,7 @@
 ---
 title:  "Team 670 Places 3rd At Calgames, Takes Home Systems Design Award"
+author: "670"
+avatar: "img/authors/hrtlogo.png"
 image: "img/cg1.jpg"
 date:   2018-10-10 12:12:12
 ---
@@ -9,18 +11,18 @@ The team also won the Systems Design Award, a solid ending for one of Homestead'
 
 
 Team 670's robot, 1 Chainz, climbing the scale:
-![Pulling off a nice climb in the endgame](/img/IMG_20181006_104525.jpg)
+![Pulling off a nice climb in the endgame](https://github.com/team670updates/team670updates.github.io/blob/master/img/calgames1_18.PNG)
 
 
 After placing 3rd in qualifiers, 670 lead an alliance with Team 115-MVRT and Team 751-barn2robotics in quarterfinals. 
 
 
 Checking the robot before a match:
-![Ben and Nick working in the pit before a match](/img/pit1.jpg)
+![Ben and Nick working in the pit before a match(https://github.com/team670updates/team670updates.github.io/blob/master/img/cgpit1.PNG)
 
 
 
-![The Systems Design Award](https://github.com/team670updates/team670updates.github.io/blob/master/img/Systems%20Design%20Award.JPG)
+![The Systems Design Award](https://github.com/team670updates/team670updates.github.io/blob/master/img/systemdesign2018.PNG)
 ### Calgames 2018 Systems Design Award Presentation Statement
 
 " Presented by Camp Peavy, Neato Robotics, Robotics Technician and HomeBrew Robotics.
