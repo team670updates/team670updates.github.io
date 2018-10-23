@@ -20,7 +20,7 @@ Checking the robot before a match:
 
 
 
-![The Systems Design Award!](/img/Systems Design Award.JPG)
+![The Systems Design Award](/img/Systems Design Award.JPG)
 ### Calgames 2018 Systems Design Award Presentation Statement
 
 " Presented by Camp Peavy, Neato Robotics, Robotics Technician and HomeBrew Robotics.
