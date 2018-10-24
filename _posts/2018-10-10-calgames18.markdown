@@ -13,7 +13,7 @@ The team also won the Systems Design Award, a solid ending for one of Homestead'
 Team 670's robot, 1 Chainz, climbing the scale:
 
 
-![Pulling off a nice climb in the endgame](https://github.com/team670updates/team670updates.github.io/blob/master/img/calgames1_18.PNG)
+![Pulling off a nice climb in the endgame](/assets/calgames1_18.PNG)
 
 
 After placing 3rd in qualifiers, 670 lead an alliance with Team 115-MVRT and Team 751-barn2robotics in quarterfinals. 
@@ -22,11 +22,11 @@ After placing 3rd in qualifiers, 670 lead an alliance with Team 115-MVRT and Tea
 Checking the robot before a match:
 
 
-![Ben and Nick working in the pit before a match](https://github.com/team670updates/team670updates.github.io/blob/master/img/cgpit1.PNG)
+![Ben and Nick working in the pit before a match](/assets/cgpit1.PNG)
 
 
 
-![The Systems Design Award](https://github.com/team670updates/team670updates.github.io/blob/master/img/systemdesign2018.PNG)
+![The Systems Design Award](/assets/systemdesign2018.PNG)
 
 
 
