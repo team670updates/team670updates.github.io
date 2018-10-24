@@ -1,6 +1,5 @@
 ---
 title:  "670 is Finalist in Utah Regional"
-subtitle: "Kicking off one of Homestead's strongest seasons, 670 placed 4th at the 2018 Utah Regional."
 author: "670"
 avatar: "img/authors/hrtlogo.png"
 image: "assets/utah18_6.PNG"
