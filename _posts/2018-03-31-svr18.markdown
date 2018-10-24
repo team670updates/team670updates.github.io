@@ -1,0 +1,33 @@
+---
+title:  "Homestead at SVR 2018"
+author: "670"
+avatar: "img/authors/hrtlogo.png"
+image: "img/f.jpg"
+date:   2018-03-31 12:12:12
+---
+
+Competing against FRC teams from the Bay Area and beyond, Homestead Robotics finished seventh out of 60 teams at the Silicon Valley Regional. 
+
+SVR was held this year at San Jose State University, from March 28th to March 31st, 2018.
+
+
+![](/assets/teamatsvr18.PNG)
+
+
+
+Our robot, 1-Chainz, in action in qualification match #20!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIdlGQEze7E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+1-Chainz hanging on to the scale at the end of a match:
+
+![](/assets/svr18_1.PNG)
+
+
+
+Raj and Akshat stir up school spirit as Team 670's famous dancing horses:
+
+![](/assets/svr18_4.PNG)
+
+
+Congratulations to Team 670's class of 2018 - Lauren Ng, Jose Amador, Vikram Sharma, Ronak Mundkur, Evan Cleveland, and Allison Moore! 
