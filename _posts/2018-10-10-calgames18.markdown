@@ -35,12 +35,25 @@ Checking the robot before a match:
 " Presented by Camp Peavy, Neato Robotics, Robotics Technician and HomeBrew Robotics.
 
 A hook on a magnet with a flexible adhere
+
+
 A low center of gravity with elephant ears
+
+
 Home, Home on the Range
+
+
 Where the gears and the 2-stage continuous lift elevators play,
+
+
 Where quickly is heard, 
+
+
 A suck and chuck type of SCORE!
+
+
 And the boxes are picked and placed on scales, all day.
+
 
 Congratulations to the 2018 Systems Design Award winner… 
 Team 670, Homestead Robotics With their robot 1 Chainz from Homestead High School!"
