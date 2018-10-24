@@ -2,7 +2,7 @@
 title:  "Homestead at SVR 2018"
 author: "670"
 avatar: "img/authors/hrtlogo.png"
-image: "img/f.jpg"
+image: "assets/svr1.PNG"
 date:   2018-03-31 12:12:12
 ---
 
