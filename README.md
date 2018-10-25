@@ -1,17 +1,12 @@
-# Jekyll Modern Blog
+# The blog and update page for Team 670, Homestead Robotics
 
-A Simple, Clean and responsive modern blog for jekyll.
+## [Find Us Here](https://team670updates.github.io/)
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+## [Team 670's Website](https://team-670.github.io/)
+
+Our old website can be found at [homesteadrobotics.com](http://homesteadrobotics.com/)
 
 ## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
+Based off inded's Modern Blog - it's super nice
 
-## License
 
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
