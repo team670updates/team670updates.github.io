@@ -1,11 +1,10 @@
-title:  "Homestead at N. Arizona 2019!"
+---
+title:  "Homestead at N. Arizona 2019"
 author: "670"
 avatar: "img/authors/hrtlogo.png"
-image: "/assets/azfield1.PNG"
+image: "assets/azfield1.PNG"
 date:   2019-03-18 12:12:12
 ---
-
-![](/assets/azteam.PNG)
 
 
 Team 670 launched its 2019 competition season at the Arizona North Regional in Flagstaff, where it placed 18th out of 53 teams.
